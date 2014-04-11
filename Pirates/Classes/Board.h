@@ -15,7 +15,7 @@
 @property int columns;
 @property (strong, nonatomic) NSMutableArray *gameBoard;
 
-@
+
 
 -(void) generateBoard;
 
