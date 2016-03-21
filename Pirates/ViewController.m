@@ -85,7 +85,7 @@
     self.hero = [[Hero alloc] init];
     
     
-    self.hero.health = 100;
+    self.hero.health = 95;
     self.hero.maxHealth = 100;
     
     self.hero.weapon = [self.weapons objectAtIndex:0];
@@ -114,6 +114,21 @@
     self.heroDamageValue.text = [NSString stringWithFormat:@"(%i)", heroDamage];
     
     self.heroArmor.text = [self.hero returnArmor];
+    
+//
+//    
+//    // Create colors using hues in +5 increments
+//    NSMutableArray *colors = [NSMutableArray array];
+//    for (NSInteger hue = 0; hue <= 360; hue += 5) {
+//        
+//        UIColor *color;
+//        color = [UIColor colorWithHue:1.0 * hue / 360.0
+//                           saturation:1.0
+//                           brightness:1.0
+//                                alpha:1.0];
+//        [colors addObject:(id)[color CGColor]];
+//    }
+//    [self.heroHealthBar progressTintColor:[NSArray arrayWithArray:colors]];
 
 }
 

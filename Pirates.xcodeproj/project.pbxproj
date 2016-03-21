@@ -86,6 +86,7 @@
 		DE17EE5F18E5D58D0064D97B /* PirateAttack.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = PirateAttack.jpg; sourceTree = "<group>"; };
 		DE17EE6D18E5DC3A0064D97B /* heart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = heart.png; sourceTree = "<group>"; };
 		DE17EE6F18E5DC460064D97B /* sword.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sword.png; sourceTree = "<group>"; };
+		DE1E9E84193DDE700085438F /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 		DEB85D9E18EC616100B845A1 /* Board.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Board.h; path = Classes/Board.h; sourceTree = "<group>"; };
 		DEB85D9F18EC616100B845A1 /* Board.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Board.m; path = Classes/Board.m; sourceTree = "<group>"; };
 		DEC6D29D18EAF1A500B11601 /* Character.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Character.h; path = Classes/Character.h; sourceTree = "<group>"; };
@@ -125,6 +126,7 @@
 		DE17EE1218E5D3520064D97B = {
 			isa = PBXGroup;
 			children = (
+				DE1E9E84193DDE700085438F /* MyPlayground.playground */,
 				DE17EE2418E5D3520064D97B /* Pirates */,
 				DE17EE4318E5D3520064D97B /* PiratesTests */,
 				DE17EE1D18E5D3520064D97B /* Frameworks */,

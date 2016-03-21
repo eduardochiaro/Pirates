@@ -10,29 +10,29 @@
 	<string>Pirates</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>5FF92475-67FE-4253-953C-A4E3E30DF25D</key>
+		<key>FA3191D7396413611121D6C9B1784301755F4B38</key>
 		<string>https://github.com/eduardochiaro/Pirates.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Pirates.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>5FF92475-67FE-4253-953C-A4E3E30DF25D</key>
+		<key>FA3191D7396413611121D6C9B1784301755F4B38</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/eduardochiaro/Pirates.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>5FF92475-67FE-4253-953C-A4E3E30DF25D</string>
+	<string>FA3191D7396413611121D6C9B1784301755F4B38</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>5FF92475-67FE-4253-953C-A4E3E30DF25D</string>
+			<string>FA3191D7396413611121D6C9B1784301755F4B38</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Pirates</string>
 		</dict>
